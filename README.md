@@ -11,7 +11,7 @@ The model architecture is shown as below:
 ### The Attention Heatmap
 The attention heatmap is shown as below:
 
-<img src = https://github.com/GuoshenLi/Zoom-in-Lesion-For-Medical-Image-Classification/blob/main/heatmap.png width = '1146' height = '450'/><br/>
+<img src = https://github.com/GuoshenLi/Zoom-in-Lesion-For-Medical-Image-Classification/blob/main/heatmap.png width = '1146' height = '400'/><br/>
 
 
 
