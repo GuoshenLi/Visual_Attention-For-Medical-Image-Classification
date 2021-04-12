@@ -22,3 +22,6 @@ The following mid1, mid2, mid3 is the output of the non-local block of the first
 We can get a better result in the second branch and further improve the accuracy.
 
 
+### The Distortion Model
+The handsome Kris Wu before distortion:
+<img src = https://github.com/GuoshenLi/Zoom-in-Lesion-For-Medical-Image-Classification/blob/main/kris.png width = '422' height = '422'/><br/>
