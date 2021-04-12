@@ -30,3 +30,5 @@ The handsome Kris Wu before distortion:
 The handsome Kris Wu after distortion by the attention map:
 
 <img src = https://github.com/GuoshenLi/Zoom-in-Lesion-For-Medical-Image-Classification/blob/main/kris_distortion.png width = '422' height = '422'/><br/>
+
+The tensorflow_sample.py file contains this demo! The attention map is simply set to be 1 in the middle and surrounded by 0. So it will zoom in the center.
