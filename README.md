@@ -24,4 +24,9 @@ We can get a better result in the second branch and further improve the accuracy
 
 ### The Distortion Model
 The handsome Kris Wu before distortion:
+
 <img src = https://github.com/GuoshenLi/Zoom-in-Lesion-For-Medical-Image-Classification/blob/main/kris.png width = '422' height = '422'/><br/>
+
+The handsome Kris Wu after distortion by the attention map:
+
+<img src = https://github.com/GuoshenLi/Zoom-in-Lesion-For-Medical-Image-Classification/blob/main/kris_distortion.png width = '422' height = '422'/><br/>
