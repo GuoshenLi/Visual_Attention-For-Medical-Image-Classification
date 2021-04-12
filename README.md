@@ -1,1 +1,1 @@
-# Zoom-in-Lesion-For-Medical-Image-Classification
+# Visual-Attention-For-Medical-Image-Classification
